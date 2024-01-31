@@ -1,7 +1,10 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Harmeet Singh</h1>
 <h3 align="center">Fullstack Developer | Blockchain enthusiast | MERN | REST API | Redux | React Hooks | Firebase | Socket.io | Technical Member@GDSC | Postman Student Expert | FFE Scholar</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harmeet10000&label=Profile%20views&color=0e75b6&style=flat" alt="harmeet10000" /> </p>
 
