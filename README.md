@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harmeet10000&label=Profile%20views&color=0e75b6&style=flat" alt="harmeet10000" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=harmeet10000" alt="harmeet10000" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/nobody_crypto_h" target="blank"><img src="https://img.shields.io/twitter/follow/nobody_crypto_h?logo=twitter&style=for-the-badge" alt="nobody_crypto_h" /></a> </p>
 
 - 🌱 I’m currently learning **React, React Query, Typescript, Next.js, Linux, Rust, Kafka, Redis**
